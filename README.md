@@ -138,3 +138,4 @@ A real provider implements `App\Payments\PaymentGateway` directly and writes its
 - `"decline": true` on the payment request simulates a failed charge without calling an external provider.
 - Gateway credentials live in `.env`, not in the database.
 # Extendable_Order_Payment_API_Task
+# Extendable_Order_Payment_API_Task
